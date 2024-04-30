@@ -1,0 +1,14 @@
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\bin\Debug\net8.0\whatsAPI.exe
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\bin\Debug\net8.0\whatsAPI.deps.json
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\bin\Debug\net8.0\whatsAPI.runtimeconfig.json
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\bin\Debug\net8.0\whatsAPI.dll
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\bin\Debug\net8.0\whatsAPI.pdb
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.AssemblyInfoInputs.cache
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.AssemblyInfo.cs
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.csproj.CoreCompileInputs.cache
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.dll
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\refint\whatsAPI.dll
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.pdb
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.genruntimeconfig.cache
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\ref\whatsAPI.dll
