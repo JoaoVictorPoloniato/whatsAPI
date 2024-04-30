@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/N9prjF287b3twLNBJAl6qsBLMuCyw3m8fTTWRO9OYOsLp9f+qG7ZmzoxKlwI0UFy5yvC8ztNkUhML8fEF84nQ==",
+  "dgSpecHash": "CJOBc9yfv5mFxtr6Hch7wXNv9EztyxMImxXMYlWJljRDtCBN3gpiNzaVMNDuaBvBJhuSIu6USC5mARkImXjTHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\polon\\OneDrive\\Documentos\\GitHub\\whatsAPI\\whatsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\polon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\polon\\.nuget\\packages\\selenium.webdriver\\4.20.0\\selenium.webdriver.4.20.0.nupkg.sha512"
+    "C:\\Users\\polon\\.nuget\\packages\\selenium.webdriver\\4.20.0\\selenium.webdriver.4.20.0.nupkg.sha512",
+    "C:\\Users\\polon\\.nuget\\packages\\selenium.webdriver.chromedriver\\124.0.6367.9100\\selenium.webdriver.chromedriver.124.0.6367.9100.nupkg.sha512"
   ],
   "logs": []
 }

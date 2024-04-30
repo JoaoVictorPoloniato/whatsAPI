@@ -12,3 +12,5 @@ C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\refint\whats
 C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.pdb
 C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.genruntimeconfig.cache
 C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\ref\whatsAPI.dll
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.csproj.AssemblyReference.cache
+C:\Users\polon\OneDrive\Documentos\GitHub\whatsAPI\obj\Debug\net8.0\whatsAPI.sourcelink.json

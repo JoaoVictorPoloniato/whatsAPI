@@ -48,6 +48,10 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.20.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[124.0.6367.9100, )"
             }
           },
           "imports": [
